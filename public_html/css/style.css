@@ -14,3 +14,21 @@ and open the template in the editor.
 }
 
 */
+
+.recuo{
+    text-indent: 3em;
+}
+
+
+@media(min-width: 1200px){ 
+    .img-bio{
+        max-width: 280px;
+        max-height: 280px;
+    }
+    
+    .texto-bio{
+        margin-top: 3ch;
+    }
+
+}
+
