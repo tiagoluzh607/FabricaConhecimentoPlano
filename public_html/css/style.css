@@ -20,7 +20,7 @@ and open the template in the editor.
 }
 
 
-@media(min-width: 1200px){ 
+@media(min-width: 1500px){ 
     .img-bio{
         max-width: 280px;
         max-height: 280px;
